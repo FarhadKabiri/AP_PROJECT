@@ -3,25 +3,18 @@ package Project;
 import java.util.Random;
 
 public class RSingleLineSourceModel {
-    private boolean displayOutput;
     private RLocation point1Location;
     private RLocation point2Location;
     private double theta;
     private double depth;
-    private double latitudeGeometricalUncertainty;
-    private double longitudeGeometricalUncertainty;
     private RLocation outputLocation;
 
     // Constructor
-    public RSingleLineSourceModel(boolean displayOutput, RLocation point1Location, RLocation point2Location, double depth,
-                                  double latitudeGeometricalUncertainty, double longitudeGeometricalUncertainty) {
-        this.displayOutput = displayOutput;
+    public RSingleLineSourceModel(RLocation point1Location, RLocation point2Location, double depth) {
         this.point1Location = point1Location;
         this.point2Location = point2Location;
         this.theta = 0.5; // Can be Random variable between 0 and 1
         this.depth = depth;
-        this.latitudeGeometricalUncertainty = latitudeGeometricalUncertainty;
-        this.longitudeGeometricalUncertainty = longitudeGeometricalUncertainty;
         generateOutputLocation();
     }
 
@@ -29,17 +22,8 @@ public class RSingleLineSourceModel {
     private void generateOutputLocation() {
         double latitude = point1Location.getLatitude() + theta * (point2Location.getLatitude() - point1Location.getLatitude());
         double longitude = point1Location.getLongitude() + theta * (point2Location.getLongitude() - point1Location.getLongitude());
-        double altitude = point1Location.getAltitude() + theta * (point2Location.getAltitude() - point1Location.getAltitude());
-        this.outputLocation = new RLocation("Response", latitude, longitude, altitude, "");
-    }
-
-    // Getters and Setters
-    public boolean isDisplayOutput() {
-        return displayOutput;
-    }
-
-    public void setDisplayOutput(boolean displayOutput) {
-        this.displayOutput = displayOutput;
+        double altitude = depth;
+        this.outputLocation = new RLocation("Response", latitude, longitude, altitude);
     }
 
     public RLocation getPoint1Location() {
@@ -80,22 +64,6 @@ public class RSingleLineSourceModel {
         this.depth = depth;
     }
 
-    public double getLatitudeGeometricalUncertainty() {
-        return latitudeGeometricalUncertainty;
-    }
-
-    public void setLatitudeGeometricalUncertainty(double latitudeGeometricalUncertainty) {
-        this.latitudeGeometricalUncertainty = latitudeGeometricalUncertainty;
-    }
-
-    public double getLongitudeGeometricalUncertainty() {
-        return longitudeGeometricalUncertainty;
-    }
-
-    public void setLongitudeGeometricalUncertainty(double longitudeGeometricalUncertainty) {
-        this.longitudeGeometricalUncertainty = longitudeGeometricalUncertainty;
-    }
-
     public RLocation getOutputLocation() {
         return outputLocation;
     }
@@ -103,13 +71,10 @@ public class RSingleLineSourceModel {
     @Override
     public String toString() {
         return "RSingleLineSourceModel{" +
-                "displayOutput=" + displayOutput +
                 ", point1Location=" + point1Location +
                 ", point2Location=" + point2Location +
                 ", theta=" + theta +
                 ", depth=" + depth +
-                ", latitudeGeometricalUncertainty=" + latitudeGeometricalUncertainty +
-                ", longitudeGeometricalUncertainty=" + longitudeGeometricalUncertainty +
                 ", outputLocation=" + outputLocation +
                 '}';
     }
