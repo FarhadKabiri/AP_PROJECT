@@ -1,0 +1,199 @@
+Total number of damaged buildings and repair costs by neighborhood:
+Neighborhood: Narmak
+  Total damaged buildings: 29
+  Total repair cost: 1.9746502990999997E8 IRR
+Neighborhood: Iran Khodro
+  Total damaged buildings: 28
+  Total repair cost: 1.9734971480999997E8 IRR
+Neighborhood: Niru-ye Havaei
+  Total damaged buildings: 29
+  Total repair cost: 1.9339246034999996E8 IRR
+Neighborhood: Aliabad
+  Total damaged buildings: 33
+  Total repair cost: 1.8137167397E8 IRR
+Neighborhood: Jordan
+  Total damaged buildings: 26
+  Total repair cost: 1.7431050718E8 IRR
+Neighborhood: Abbasabad
+  Total damaged buildings: 28
+  Total repair cost: 1.7071790954999998E8 IRR
+Neighborhood: Bagh-e Feyz
+  Total damaged buildings: 26
+  Total repair cost: 1.6867956798999998E8 IRR
+Neighborhood: Moniriyeh
+  Total damaged buildings: 27
+  Total repair cost: 1.6639345022000003E8 IRR
+Neighborhood: Soleimani
+  Total damaged buildings: 25
+  Total repair cost: 1.6225307434000006E8 IRR
+Neighborhood: Vesf-e Nard
+  Total damaged buildings: 34
+  Total repair cost: 1.6169553085E8 IRR
+Neighborhood: Shadabad
+  Total damaged buildings: 27
+  Total repair cost: 1.6001947357E8 IRR
+Neighborhood: Saadi
+  Total damaged buildings: 33
+  Total repair cost: 1.5847775073000002E8 IRR
+Neighborhood: Zanjan
+  Total damaged buildings: 28
+  Total repair cost: 1.5522472857E8 IRR
+Neighborhood: Punak
+  Total damaged buildings: 21
+  Total repair cost: 1.5253402495000002E8 IRR
+Neighborhood: Mosharieh
+  Total damaged buildings: 25
+  Total repair cost: 1.499171248E8 IRR
+Neighborhood: Karoun
+  Total damaged buildings: 22
+  Total repair cost: 1.452233664E8 IRR
+Neighborhood: Yousefabad
+  Total damaged buildings: 25
+  Total repair cost: 1.4471847246000004E8 IRR
+Neighborhood: Ostad Moein
+  Total damaged buildings: 25
+  Total repair cost: 1.4400626067E8 IRR
+Neighborhood: Shahrak-e Azadi
+  Total damaged buildings: 23
+  Total repair cost: 1.4387333491E8 IRR
+Neighborhood: Piroozi
+  Total damaged buildings: 27
+  Total repair cost: 1.4354040701999998E8 IRR
+Neighborhood: Darvazeh Shemiran
+  Total damaged buildings: 24
+  Total repair cost: 1.4124530424999997E8 IRR
+Neighborhood: Shoosh
+  Total damaged buildings: 19
+  Total repair cost: 1.4041041703E8 IRR
+Neighborhood: Zehtabi
+  Total damaged buildings: 20
+  Total repair cost: 1.4037394048E8 IRR
+Neighborhood: Tehran-Sar
+  Total damaged buildings: 27
+  Total repair cost: 1.3991027061E8 IRR
+Neighborhood: Aghdasieh
+  Total damaged buildings: 24
+  Total repair cost: 1.396271122E8 IRR
+Neighborhood: Fatemi
+  Total damaged buildings: 24
+  Total repair cost: 1.3709308621E8 IRR
+Neighborhood: Fath
+  Total damaged buildings: 20
+  Total repair cost: 1.3410130184999998E8 IRR
+Neighborhood: Khalij
+  Total damaged buildings: 27
+  Total repair cost: 1.3320070948000002E8 IRR
+Neighborhood: Naziabad
+  Total damaged buildings: 25
+  Total repair cost: 1.3315946966E8 IRR
+Neighborhood: Vardavard
+  Total damaged buildings: 25
+  Total repair cost: 1.3129081185E8 IRR
+Neighborhood: Azari
+  Total damaged buildings: 23
+  Total repair cost: 1.3021279880999999E8 IRR
+Neighborhood: Abdolabad
+  Total damaged buildings: 20
+  Total repair cost: 1.3011180583999997E8 IRR
+Neighborhood: Majidieh
+  Total damaged buildings: 25
+  Total repair cost: 1.2767810131E8 IRR
+Neighborhood: Doolab
+  Total damaged buildings: 23
+  Total repair cost: 1.2764092679999998E8 IRR
+Neighborhood: Shahr-e Rey
+  Total damaged buildings: 25
+  Total repair cost: 1.2612199527999997E8 IRR
+Neighborhood: Niavaran
+  Total damaged buildings: 23
+  Total repair cost: 1.2582754467000002E8 IRR
+Neighborhood: Tehran-No
+  Total damaged buildings: 21
+  Total repair cost: 1.2372957235000001E8 IRR
+Neighborhood: Shahrak-e Rahahan
+  Total damaged buildings: 22
+  Total repair cost: 1.2277047413E8 IRR
+Neighborhood: Vanak
+  Total damaged buildings: 18
+  Total repair cost: 1.2112590949000001E8 IRR
+Neighborhood: Shapour
+  Total damaged buildings: 24
+  Total repair cost: 1.1940952332000002E8 IRR
+Neighborhood: Ne'matabad
+  Total damaged buildings: 21
+  Total repair cost: 1.1779825383000001E8 IRR
+Neighborhood: Sohrvardi
+  Total damaged buildings: 21
+  Total repair cost: 1.1766399054999998E8 IRR
+Neighborhood: Darabad
+  Total damaged buildings: 22
+  Total repair cost: 1.1602632982000001E8 IRR
+Neighborhood: Molavi
+  Total damaged buildings: 18
+  Total repair cost: 1.1589293765000002E8 IRR
+Neighborhood: Afsarieh
+  Total damaged buildings: 22
+  Total repair cost: 1.1145283113999999E8 IRR
+Neighborhood: Dowlatabad
+  Total damaged buildings: 17
+  Total repair cost: 1.0919948349000001E8 IRR
+Neighborhood: Pasdaran
+  Total damaged buildings: 23
+  Total repair cost: 1.0876964186000003E8 IRR
+Neighborhood: Motahari
+  Total damaged buildings: 19
+  Total repair cost: 1.0836714988E8 IRR
+Neighborhood: Sattarkhan
+  Total damaged buildings: 20
+  Total repair cost: 1.0694757473000002E8 IRR
+Neighborhood: Razavieh
+  Total damaged buildings: 15
+  Total repair cost: 1.0127846082000001E8 IRR
+Neighborhood: Masoudieh
+  Total damaged buildings: 18
+  Total repair cost: 1.0101539353000003E8 IRR
+Neighborhood: Hoseinabad
+  Total damaged buildings: 15
+  Total repair cost: 1.0083825244999999E8 IRR
+Neighborhood: Janatabad
+  Total damaged buildings: 15
+  Total repair cost: 1.0038217510000001E8 IRR
+Neighborhood: Yaftabad
+  Total damaged buildings: 22
+  Total repair cost: 9.630364989999999E7 IRR
+Neighborhood: Shariati Town
+  Total damaged buildings: 21
+  Total repair cost: 9.610733764999998E7 IRR
+Neighborhood: Shahrak-e Gharb
+  Total damaged buildings: 19
+  Total repair cost: 9.53009036E7 IRR
+Neighborhood: Javanmard
+  Total damaged buildings: 19
+  Total repair cost: 9.075920508000003E7 IRR
+Neighborhood: Keshavarz Blvd
+  Total damaged buildings: 18
+  Total repair cost: 8.917704387E7 IRR
+Neighborhood: Javadiyeh
+  Total damaged buildings: 17
+  Total repair cost: 8.871070519E7 IRR
+Neighborhood: Vahidiyeh
+  Total damaged buildings: 15
+  Total repair cost: 8.69749224E7 IRR
+Neighborhood: Chitgar Lake
+  Total damaged buildings: 17
+  Total repair cost: 8.621348233999999E7 IRR
+Neighborhood: Mirdamad
+  Total damaged buildings: 14
+  Total repair cost: 8.255189966E7 IRR
+Neighborhood: Madaen
+  Total damaged buildings: 22
+  Total repair cost: 7.676537942000002E7 IRR
+Neighborhood: Baharestan
+  Total damaged buildings: 14
+  Total repair cost: 7.466988706E7 IRR
+Neighborhood: Mehrabad
+  Total damaged buildings: 23
+  Total repair cost: 7.014531636E7 IRR
+Neighborhood: Sadeghieh
+  Total damaged buildings: 15
+  Total repair cost: 6.384405235E7 IRR

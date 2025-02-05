@@ -1,0 +1,2 @@
+Total damaged buildings: 1482
+Total repair cost: 8.409361198599998E9 IRR
